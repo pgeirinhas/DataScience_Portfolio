@@ -17,7 +17,7 @@ It is divided into 4 main parts:
 - Creation of a Power BI Dashboard for on-demand consultation from Sales Managers and Analyst;
 - Final presentation for the client.
 
-**Note:** the original content of the dataset was completely modified and adapted due to data privacy/ownership (with the onwern's consent).
+**Note:** the original content of the dataset was completely modified and adapted due to data privacy/ownership (with the ownern's consent).
 
 ## 2 - Answering Business Questions Using SQL  
 ### Keywords: Data Analysis, SQL, KPIs, Music
