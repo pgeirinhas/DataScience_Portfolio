@@ -6,7 +6,7 @@ Bear in mind these projects were completed/are being completed at different step
 ## 1 - Analysing Retailers & Salesman Performance 
 ### Keywords: Python Programming, Data Analysis, Data Visualization, Clustering Analysis, B2B Sales 
 
-The tobacco industry is constantly facing governmental pressure that limits traditional tobacco due to health concerns. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...) in order give consumers safer alternatives. Within their retailers channel, market players usually try to increase market share of their new products against tradional ones, by giving out money incentives for retailers' successful leads and/or sales.
+The tobacco industry is constantly facing governmental pressure that limits traditional tobacco due to health concerns. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...) in order give consumers safer alternatives. Within their retailers channel, market players usually try to increase market share of their new products against traditional ones, by giving out money incentives for retailers' successful leads and/or sales.
 
 For this project, I was approached from a player of the tobacco industry to act as a freelance consultant, since the client had a continuously growing dataset, but lacked resources to organize and structure meaningful analytics from the data. In particular, the client was highly concerned with the return on investment (ROI) of their money incentives campaigns for the retailers channel.    
 
