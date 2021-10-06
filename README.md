@@ -1,21 +1,23 @@
 # Dataquest Projects
 This repository contains all the data science projects done throughout my Dataquest training.
 
-Bear in mind these projects were completed at different steps and that they reflect the level of knowledge at a certain point in time.
+Bear in mind these projects were completed/are being completed at different steps and that they reflect the level of knowledge at a certain point in time.
 
 ## Analysing Retailers & Salesman Performance 
 ### Keywords: Python Programming, Data Analysis, Data Visualization, Clustering Analysis, B2B Sales 
 
+The tobacco industry is constantly facing governmental pressure that hinders traditional tobacco sales. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...). Within their retailers channel, players usually try to increase market penetration and market share of their new products, by giving out money incentives for successful leads and/or sales.
 
+For this project, I was approached from a player of the tobacco industry to act as a freelance consultant, since the client had a continuously growing dataset, but lacked resources to organize and structure meaningful analytics from the data. In particular, the client was highly concerned with the return on investment (ROI) of their money incentives campaign for the retailers channel.    
 
-Throughout this project, Data Analysis frameworks and critical thinking are used to provide answers for the client. 
+Throughout this project Data Analysis frameworks and critical thinking are used to provide answers for the client. 
 It is divided into 4 main parts:
 - Designing a Python script that automates Data Acquisition; 
 - Interpretation of data and definition of KPIs to inform Business Decision makers;
 - Creation of a Power BI Dashboard for on-demand consultation from Sales Managers and Analyst;
 - Final presentation for the client.
 
-**Note:** the original content of the dataset was modified and adapted due to data privacy/ownership.
+**Note:** the original content of the dataset was completely modified and adapted due to data privacy/ownership (with the onwern's consent).
 
 ## Answering Business Questions Using SQL  
 ### Keywords: Data Analysis, SQL, KPIs, Music
@@ -32,7 +34,7 @@ By using the adequate queries, the following business questions are answered:
 ## Explanatory & Exploratory Analysis For A HR Company  
 ### Keywords: ETL, Python, Data Analysis, Data Visualization, HR, Workforce on-demand
 
-This project uses ETL Python skills on for a HR workforce on-demand company.
+This project uses critical thinking and technical skills to provide analytics insights for a HR workforce on-demand company.
 
 By using data analysis and data visualization skills on HR recruitment data, the following findings are used for decision making:
 - Data Explanatory Analysis in Python (Pandas Library)
