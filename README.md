@@ -13,8 +13,8 @@ For this project, I was approached from a player of the tobacco industry to act 
 Throughout this project Data Analysis frameworks and critical thinking are used to provide answers for the client. 
 It is divided into 4 main parts:
 - Designing a Python script that automates Data Acquisition; 
-- Interpretation of data and definition of KPIs to inform Business Decision makers;
-- Creation of a Power BI Dashboard for on-demand consultation from Sales Managers and Analyst;
+- Interpretation of data and definition of KPIs to inform Business Decision Makers;
+- Creation of a Power BI Dashboard for on-demand consultation from Business Decision Makers;
 - Final presentation for the client.
 
 **Note:** the original content of the dataset was completely modified and adapted due to data privacy/ownership (with the owner's consent).
