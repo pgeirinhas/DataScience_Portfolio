@@ -3,7 +3,7 @@ This repository contains all the data science projects done throughout my Dataqu
 
 Bear in mind these projects were completed/are being completed at different steps and that they reflect the level of knowledge at a certain point in time.
 
-## Analysing Retailers & Salesman Performance 
+## 1 - Analysing Retailers & Salesman Performance 
 ### Keywords: Python Programming, Data Analysis, Data Visualization, Clustering Analysis, B2B Sales 
 
 The tobacco industry is constantly facing governmental pressure that limits traditional tobacco due to health concerns. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...) in order give consumers safer alternatives. Within their retailers channel, market players usually try to increase market share of their new products against tradional ones, by giving out money incentives for retailers' successful leads and/or sales.
@@ -19,7 +19,7 @@ It is divided into 4 main parts:
 
 **Note:** the original content of the dataset was completely modified and adapted due to data privacy/ownership (with the onwern's consent).
 
-## Answering Business Questions Using SQL  
+## 2 - Answering Business Questions Using SQL  
 ### Keywords: Data Analysis, SQL, KPIs, Music
 
 This project uses SQL skills on a record store database.
@@ -31,7 +31,7 @@ By using the adequate queries, the following business questions are answered:
 - Which countries do the store sell the most to?
 - Is buying only selected single tracks from record companies more profitable for the store than buying full new albums?
 
-## Explanatory & Exploratory Analysis For A HR Company  
+## 3 - Explanatory & Exploratory Analysis For A HR Company  
 ### Keywords: ETL, Python, Data Analysis, Data Visualization, HR, Workforce on-demand
 
 This project uses critical thinking and technical skills to provide analytics insights for a HR workforce on-demand company.
