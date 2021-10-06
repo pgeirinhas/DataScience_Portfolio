@@ -6,9 +6,9 @@ Bear in mind these projects were completed/are being completed at different step
 ## Analysing Retailers & Salesman Performance 
 ### Keywords: Python Programming, Data Analysis, Data Visualization, Clustering Analysis, B2B Sales 
 
-The tobacco industry is constantly facing governmental pressure that hinders traditional tobacco sales. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...). Within their retailers channel, players usually try to increase market penetration and market share of their new products, by giving out money incentives for successful leads and/or sales.
+The tobacco industry is constantly facing governmental pressure that limits traditional tobacco due to health concerns. Therefore, players need to invest in risk reduced products (e.g.: e-cigarettes, vaping products, heated tobacco, etc...) in order give consumers safer alternatives. Within their retailers channel, market players usually try to increase market share of their new products against tradional ones, by giving out money incentives for retailers' successful leads and/or sales.
 
-For this project, I was approached from a player of the tobacco industry to act as a freelance consultant, since the client had a continuously growing dataset, but lacked resources to organize and structure meaningful analytics from the data. In particular, the client was highly concerned with the return on investment (ROI) of their money incentives campaign for the retailers channel.    
+For this project, I was approached from a player of the tobacco industry to act as a freelance consultant, since the client had a continuously growing dataset, but lacked resources to organize and structure meaningful analytics from the data. In particular, the client was highly concerned with the return on investment (ROI) of their money incentives campaigns for the retailers channel.    
 
 Throughout this project Data Analysis frameworks and critical thinking are used to provide answers for the client. 
 It is divided into 4 main parts:
