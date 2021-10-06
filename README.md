@@ -1,4 +1,4 @@
-# Dataquest Projects
+# Data Science Projects
 This repository contains all the data science projects done throughout my Dataquest training.
 
 Bear in mind these projects were completed/are being completed at different steps and that they reflect the level of knowledge at a certain point in time.
