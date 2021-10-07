@@ -1,2 +1,3 @@
 # Project 1: Analysing Retailers & Salesman Performance  
 This project...
+![4_Data_Acquisiton_Workflow](https://user-images.githubusercontent.com/82218642/136301929-fa41e765-9c22-47cc-9a24-6c11aaf77e36.png)
