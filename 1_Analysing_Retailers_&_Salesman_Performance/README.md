@@ -18,7 +18,8 @@ Acting as a freelance consultant, a project divided into 4 main parts is provide
 ### Business Problem: 
 Currently, there is a "Master" Template that Sales Representatives of each region use to register all data from Retailers (e.g.: Sales objectives, Leads/Lending/Sales results, etc...). The "Master" Template Excel file has 6 sheets:
 - 1 Excel Sheet for Point of Sales (i.e.: Retailer) Lead, 1 Excel Sheet for Point of Sales Lending, 1 Excel Sheet for Point of Sales Sales
-- 1 Excel Sheet for Salesman (i.e.: Retailer worker) Lead, 1 Excel for Salesman Lending, 1 Excel Sheet for Salesman Sales  
+- 1 Excel Sheet for Salesman (i.e.: Retailer worker) Lead, 1 Excel for Salesman Lending, 1 Excel Sheet for Salesman Sales
+- This Data Entry process is carried-out on a monthtly basis
 
 Each Sales Representative then sends out by email their completed Excel file to a designated Sales Analyst that compiles all information received into a Final Excel file. This workflow is very time consuming for the Sales Analyst as well as very prone to error and the client would like a fast and more efficient solution.  
 ![4_Data_Acquisiton_Workflow_1](https://user-images.githubusercontent.com/82218642/136635657-49eaccc1-ea4b-42b0-ba69-0ab5900ce2f5.png)
